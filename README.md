@@ -4,6 +4,9 @@
 This repository serves as a collaborative learning resource for NTU students. Github was initially chosen because of my wish to be able to duplicate the repository in event of any fatal problems (along with the fact that it was initially created for the RMS/IMS Stream). I proceeded to consider that notes from elective modules will be invaluable. This repository is a work-in-progress and I do hope that anyone who wishes to help will contribute.
 
 ## Repository Structure
+
+<School> -> <Course> -> <Specialization; if any otherwise skip>
+
 ```
 NTU-Notes/
 ├── Engineering/
@@ -29,6 +32,7 @@ NTU-Notes/
                      └── Tutorial1-Solutions(@XiaoChaoMeng).pdf
 
 ```
+
 ## Repository Content
 We accept a wide range of educational materials including but not limited to:
 - Study notes (student-created or otherwise)
@@ -44,7 +48,7 @@ We accept a wide range of educational materials including but not limited to:
 To maintain quality and organization, we've implemented the following protections:
 
 ### Branch Rules
-- All changes must be submitted through pull requests
+- All changes must be submitted through pull requests (make a new branch outside of main with git switch -c <branch name>)
 - At least one review is required before merging
 - Direct pushes to the main branch are not allowed
 - Changes after approval require fresh reviews
