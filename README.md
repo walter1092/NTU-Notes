@@ -97,12 +97,28 @@ NTU-Notes/
 
 ## Contribution Guidelines
 
-### Acceptable Content
-- Student-created study notes
+### Repository Content
+We accept a wide range of educational materials including but not limited to:
+- Study notes (student-created or otherwise)
 - Practice problems and solutions
 - Study guides and summaries
 - Learning resources and references
 - Code examples and explanations
+- Past year papers and solutions
+- Lecture notes and materials
+- Any other relevant educational content
+
+### Content Concerns
+If you have concerns about any content in this repository:
+1. Create an Issue in the repository detailing your concern
+2. Reach out directly via the contact methods listed below
+3. For urgent matters, you can also contact us through Telegram/WhatsApp for faster response
+
+We believe in open access to educational materials while respecting intellectual property rights. We're happy to:
+- Discuss any concerns about hosted content
+- Work with content owners to find appropriate solutions
+- Remove content if requested through proper channels
+- Add appropriate attribution where needed
 
 ### File Naming Convention
 Please follow this format for all submissions:
@@ -117,12 +133,11 @@ ME2121-Engineering-Mechanics/
 └── Tutorial2-Solutions.pdf
 ```
 
-### Academic Integrity Notice
+### Mandatory Academic Integrity Notice
 This repository is intended for educational purposes and collaborative learning. Contributors and users should:
-1. Only share their own original work
-2. Properly cite any referenced materials
-3. Use these materials as study aids, not substitutes for course participation
-4. Follow NTU's academic integrity guidelines
+1. Properly cite any referenced materials
+2. Use these materials as study aids, not substitutes for course participation
+3. Follow NTU's academic integrity guidelines
 
 ## Contact and Support
 
