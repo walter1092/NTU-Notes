@@ -95,7 +95,7 @@ We believe in giving credit where credit is due. Contributors can choose to:
 - Link their GitHub profile
 - Use any other preferred attribution style
 
-# Example for personal work:
+### Example for personal work:
    ```bash
    git add Tutorial1-Solutions(@XiaoChaoMeng).pdf <--- Leave this blank if you want anonymous
    git commit -m "Contributed by [XCM/@XiaoChaoMeng/<blank>Anonymous Contribution]"
@@ -111,7 +111,7 @@ For content obtained from other sources (including web archives), please include
 - Any relevant context about the source   
 - Method of discovery (e.g., "Retrieved from Yandex Archives")
 
-# Example for found work:
+### Example for found work:
    ```bash
    git add Tutorial1-Solutions[Yandex(Tyler1)].pdf <--- Leave this blank if you want anonymous
    git commit -m "Contributed by [XCM/@XiaoChaoMeng/<blank>Anonymous Contribution]"
