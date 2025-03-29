@@ -5,7 +5,7 @@ This repository serves as a collaborative learning resource for NTU students. Gi
 
 ## Repository Structure
 
-<School> -> <Course> -> <Specialization; if any otherwise skip>
+### <School> -> <Course> -> <Specialization (if any, otherwise skip)>
 
 ```
 NTU-Notes/
