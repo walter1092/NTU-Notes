@@ -4,21 +4,18 @@
 Basically for everyone. From course map if you want to see syllabus/ people who want to see notes for planning future modules, as of now it is mainly robotics but I think if an issue is raised/Discussion is made, I think it can be done. Right now focusing on Robotics mods but I think I will include the other BDE mods in case anyone wants the notes from there and those school like LG5001 for example.
 This repository was made to ensure the safety and anonyminity of the uploads. People who use this repository are advised to update it with their notes as I can only scrape so far into the past and I do not know how much the syllabus has changed since then. I also recommend forking the repository in the event someone goes and say "I found it online" etc, so in the event one repo goes down, there are others still out there. Though this is a decentralized way of note sharing via github, I will make one static folder on MEGA or something when I feel confident on the first iteration of this repository.
 
-### Note: As Github can get anonymous, if you want to leave your credit like Tutorial 1 by XXX or provide some help in the README.md (I will get around to writing the README for each module to mention the books etc), go ahead. Or text me via the contacts below and I will get back to you when I turn my phone on.
-
-### Note 2: Do make issues with regards to missing stuff (especially the books asked by that they will use and I will most prob find like E.g. An Introduction to Planar Dynamics by Professor Yap Fook Fah), I tried my best to find notes and will be regularly updating this(if i can) and I recommend git pulling from time to time. There will be mistakes (and duplicates), but we(I and my brother) will do our best to fix it.
-
-### Note 3: If you want to help out, you can reach out to me directly.(You know my actual Tele handle, otherwise scroll to the bottom -W)
-
-### Note 4: I am aware of the coursehero paywall shit, probably gonna buy some third-party key for a day to download all the documents but if anyone else has a recommendation I do appreciate it.
-
-### Note 5: For older modules that were taken, we are working to sanitize people's names from some of the work so it doesn't lead back to anyone. Those that I grabbed online, well I will keep it there cuz it was already publicly available.
+### Note: 
+- As Github can get anonymous, if you want to leave your credit like Tutorial 1 by XXX or provide some help in the README.md (I will get around to writing the README for each module to mention the books etc), go ahead. Or text me via the contacts below and I will get back to you when I turn my phone on.
+- Do make issues with regards to missing stuff (especially the books asked by that they will use and I will most prob find like E.g. An Introduction to Planar Dynamics by Professor Yap Fook Fah), I tried my best to find notes and will be regularly updating this(if i can) and I recommend git pulling from time to time. There will be mistakes (and duplicates), but we(I and my brother) will do our best to fix it.
+- If you want to help out, you can reach out to me directly.(You know my actual Tele handle, otherwise scroll to the bottom -W)
+- I am aware of the coursehero paywall shit, probably gonna buy some third-party key for a day to download all the documents but if anyone else has a recommendation I do appreciate it.
+- For older modules that were taken, we are working to sanitize people's names from some of the work so it doesn't lead back to anyone. Those that I grabbed online, well I will keep it there cuz it was already publicly available.
 
 ### I'm rewriting this README from a ChatGPT template so cut me some slack. If you are uncertain how git works, please scroll to the bottom tutorial.
 
 ## Repository Structure (Will probably rework this soon)
 
-### <College> -> <School> -> <Module>
+### `<College> -> <School> -> <Module>`
 
 ```
 NTU-Notes/
