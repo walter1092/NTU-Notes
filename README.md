@@ -1,129 +1,53 @@
 # NTU Notes Repository
 
-## About This Project
-This repository serves as a collaborative learning resource for NTU students. Github was initially chosen because of my wish to be able to duplicate the repository in event of any fatal problems (along with the fact that it was initially created for the RMS/IMS Stream). I proceeded to consider that notes from elective modules will be invaluable. This repository is a work-in-progress and I do hope that anyone who wishes to help will contribute.
+## About
+Basically for everyone. From course map if you want to see syllabus/ people who want to see notes for planning future modules, as of now it is mainly robotics but I think if an issue is raised/Discussion is made, I think it can be done. Right now focusing on Robotics mods but I think I will include the other BDE mods in case anyone wants the notes from there and those school like LG5001 for example.
+This repository was made to ensure the safety and anonyminity of the uploads. People who use this repository are advised to update it with their notes as I can only scrape so far into the past and I do not know how much the syllabus has changed since then. I also recommend forking the repository in the event someone goes and say "I found it online" etc, so in the event one repo goes down, there are others still out there. Though this is a decentralized way of note sharing via github, I will make one static folder on MEGA or something when I feel confident on the first iteration of this repository.
 
-## Repository Structure
+### Note: As Github can get anonymous, if you want to leave your credit like Tutorial 1 by XXX or provide some help in the README.md (I will get around to writing the README for each module to mention the books etc), go ahead. Or text me via the contacts below and I will get back to you when I turn my phone on.
 
-### <School> -> <Course> -> <Specialization (if any, otherwise skip)>
+### Note 2: Do make issues with regards to missing stuff (especially the books asked by that they will use and I will most prob find like E.g. An Introduction to Planar Dynamics by Professor Yap Fook Fah), I tried my best to find notes and will be regularly updating this(if i can) and I recommend git pulling from time to time. There will be mistakes (and duplicates), but we(I and my brother) will do our best to fix it.
+
+### Note 3: If you want to help out, you can reach out to me directly.(You know my actual Tele handle, otherwise scroll to the bottom -W)
+
+### Note 4: I am aware of the coursehero paywall shit, probably gonna buy some third-party key for a day to download all the documents but if anyone else has a recommendation I do appreciate it.
+
+### Note 5: For older modules that were taken, we are working to sanitize people's names from some of the work so it doesn't lead back to anyone. Those that I grabbed online, well I will keep it there cuz it was already publicly available.
+
+### I'm rewriting this README from a ChatGPT template so cut me some slack. If you are uncertain how git works, please scroll to the bottom tutorial.
+
+## Repository Structure (Will probably rework this soon)
+
+### <College> -> <School> -> <Module>
 
 ```
 NTU-Notes/
 ├── Engineering/
-│   ├── Mechanical/
-│   │   ├── Common/
-│   │   │   └── [Course Code]-[Course Name]/
-│   │   ├── RMS_IMS/
-│   │   │   └── [Course Code]-[Course Name]/
-│   │   └── Aerospace/
-│   │       └── [Course Code]-[Course Name]/
+│   └── Mechanical/
 ├── Humanities/
 └── Modern-Languages/
 ```
-Example:
-```
-NTU-Notes/
-└── Engineering/
-    └── Mechanical/
-        └── RMS_IMS/
-            └──Ma2011-MECHATRONICS SYS INTERFACING/
-                  └──Week1-Introduction-to-Forces/
-                     └── Lecture1-Solutions[Yandex(Tyler1)].pdf 
-                     └── Tutorial1-Solutions(@XiaoChaoMeng).pdf
-
-```
 
 ## Repository Content
-We accept a wide range of educational materials including but not limited to:
-- Study notes (student-created or otherwise)
-- Practice problems and solutions
-- Study guides and summaries
-- Learning resources and references
-- Code examples and explanations
-- Past year papers and solutions
-- Lecture notes and materials
-- Any other relevant educational content
+We accept everything to be honest, just so long as it doesnt exist so we don't get duplicates. Or fork it yourself.
 
 ## Branch Protection and Content Guidelines
 To maintain quality and organization, we've implemented the following protections:
 
 ### Branch Rules
-- All changes must be submitted through pull requests (make a new branch outside of main with git switch -c <branch name>)
-- At least one review is required before merging
-- Direct pushes to the main branch are not allowed
-- Changes after approval require fresh reviews
+- All changes must be submitted through pull requests (as is usual with git); direct pushes to the main branch are not allowed
+- Make a new branch outside of main with 
+```
+git switch -c <branch name>
+```
+Otherwise just fork it and add it from there, though it will probably be alot easier if everyone kind of just puts it together first then fork it.
 
 ### Content Guidelines
-1. File Organization:
-   - Place materials in appropriate course folders
-   - Follow naming convention above
-   - Include source attribution where applicable
-   - Please avoid overlapping documents
-Ironically this README is mostly generated by AI, so I will leave AI up to individual discretion
+- Place materials in appropriate course folders
+- Follow naming convention if possible
+- Please avoid overlapping documents
 
-2. Quality Standards:
-   - Content should be clearly organized
-   - Include any relevant context or explanations
-   - Note any prerequisites or assumptions
-
-## Content Concerns
-If you have concerns about any content in this repository:
-1. Create an [Issue](../../issues) in the repository detailing your concern
-2. Reach out directly via the contact methods listed below
-3. For urgent matters, you can also contact us through Telegram/WhatsApp for faster response
-
-We believe in open access to educational materials while respecting intellectual property rights. We're happy to:
-- Discuss any concerns about hosted content
-- Work with content owners to find appropriate solutions
-- Remove content if requested through proper channels
-- Add appropriate attribution where needed
-
-## Contact and Support
-
-### Getting in Touch
-Have questions? Want to contribute but not sure how? Don't hesitate to reach out:
-- Email: <your-email>
-- Telegram: <your-handle>
-- WhatsApp: <your-number>
-
-### Attribution and Recognition
-## Personal Work
-We believe in giving credit where credit is due. Contributors can choose to:
-
-- Have their work credited with their name/handle
-- Remain anonymous
-- Link their GitHub profile
-- Use any other preferred attribution style
-
-### Example for personal work:
-   ```bash
-   git add Tutorial1-Solutions(@XiaoChaoMeng).pdf <--- Leave this blank if you want anonymous
-   git commit -m "Contributed by [XCM/@XiaoChaoMeng/<blank>Anonymous Contribution]"
-   git push
-   ```
-Note if you are uncertain how git works, please scroll to the bottom tutorial
-
-## Found Work
-For content obtained from other sources (including web archives), please include:
-
-- Original source: "[Platform/Website (Author if known)]"
-- Year of creation/publication (if available)
-- Any relevant context about the source   
-- Method of discovery (e.g., "Retrieved from Yandex Archives")
-
-### Example for found work:
-   ```bash
-   git add Tutorial1-Solutions[Yandex(Tyler1)].pdf <--- Leave this blank if you want anonymous
-   git commit -m "Contributed by [XCM/@XiaoChaoMeng/<blank>Anonymous Contribution]"
-   git push
-   ```
-
-### Common Concerns
-- "What if I mess up the repository?" Don't worry! Git keeps track of all changes, and we can always revert to a previous version. No change is permanent.
-- "I'm not sure if my contribution fits." Reach out to us! We're happy to discuss and guide you through the process.
-- "I don't understand Git." That's completely normal! We all started there. Feel free to contact us for step-by-step guidance.
-
-## Getting Started with Git (For First-Time Contributors)
+## Tutorial for Getting Started with Git (For First-Time Contributors)
 
 ### One-Time Setup
 1. Install Git on your computer:
@@ -158,7 +82,7 @@ For content obtained from other sources (including web archives), please include
 3. Add your files to the appropriate folder
    ```bash
    # Example: Adding notes for a robotics course
-   cd Engineering/Mechanical/Robotics/Ma2011-MECHATRONICS SYS INTERFACING
+   cd Engineering/Mechanical/
    ```
 
 4. Stage your changes:
@@ -168,14 +92,19 @@ For content obtained from other sources (including web archives), please include
    git add specific-file.pdf # Add specific file
    ```
 
-5. Commit your changes:
+5. Commit your changes; must include a message:
    ```bash
    git commit -m "Add notes for Ma2011 Week 3"
    ```
 
 6. Push your changes:
+- First time:
    ```bash
    git push origin add-my-notes
+   ```
+- Subsequent times:
+   ```bash
+   git push
    ```
 
 7. Create a Pull Request:
@@ -189,12 +118,40 @@ For content obtained from other sources (including web archives), please include
 - `git diff`: See exactly what changed in files
 - `git log`: See history of changes
 - `git branch`: List all branches
-- `git checkout branch-name`: Switch to a different branch
+- `git checkout branch-name` OR `git switch branch -name`: Switch to a different branch
 
 ## Additional Resources
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com)
 - [GitHub Issues](../../issues)
 
-<!-- ### Our Mission
-We believe in democratizing access to educational resources. Knowledge should be freely available to all students who wish to learn. This repository serves as a platform for sharing and preserving educational materials that might otherwise be lost or inaccessible. -->
+## Content Concerns
+If you have concerns about any content in this repository:
+1. Create an [Issue](../../issues) in the repository detailing your concern
+2. Reach out directly via the contact methods listed below
+3. For urgent matters, you can also contact us through Telegram/WhatsApp for faster response
+
+We believe in open access to educational materials while respecting intellectual property rights. We're happy to:
+- Discuss any concerns about hosted content
+- Work with content owners to find appropriate solutions
+- Remove content if requested through proper channels
+- Add appropriate attribution where needed
+
+## Contact and Support
+
+### Getting in Touch
+Have questions? Want to contribute but not sure how? Don't hesitate to reach out:
+- Email: goldenhaleingermany@gmail.com
+- WhatsApp/Telegram: +4917685209054
+
+### Attribution and Recognition
+If you wish to credit yourself you can probably do it like 
+```
+Tutorial1-Solutions[Yandex(Tyler1)].pdf
+```
+
+### Common Concerns
+- "What if I mess up the repository?" Don't worry! Git keeps track of all changes, and we can always revert to a previous version. No change is permanent.
+
+## Credits
+Big thanks to my brother Warren for helping.
