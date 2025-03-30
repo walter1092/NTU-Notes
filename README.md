@@ -2,7 +2,9 @@
 
 ## About
 Basically for everyone. From course map if you want to see syllabus/ people who want to see notes for planning future modules, as of now it is mainly robotics but I think if an issue is raised/Discussion is made, I think it can be done. Right now focusing on Robotics mods but I think I will include the other BDE mods in case anyone wants the notes from there and those school like LG5001 for example.
-This repository was made to ensure the safety and anonyminity of the uploads. People who use this repository are advised to update it with their notes as I can only scrape so far into the past and I do not know how much the syllabus has changed since then. I also recommend forking the repository in the event someone goes and say "I found it online" etc, so in the event one repo goes down, there are others still out there. Though this is a decentralized way of note sharing via github, I will make one static folder on MEGA or something when I feel confident on the first iteration of this repository.
+This repository was made to ensure the safety and anonyminity of the uploads. People who use this repository are advised to update it with their notes as I can only scrape so far into the past and I do not know how much the syllabus has changed since then. I also recommend forking the repository in the event someone goes and say "I found it online" etc, so in the event one repo goes down, there are others still out there. Though this is a decentralized way of note sharing via github, I will make one static folder on MEGA or something when I feel confident on the first iteration of this repository. 
+
+#### (For now you can just put download via zip from the top right)
 
 ### Note: 
 - As Github can get anonymous, if you want to leave your credit like Tutorial 1 by XXX or provide some help in the README.md (I will get around to writing the README for each module to mention the books etc), go ahead. Or text me via the contacts below and I will get back to you when I turn my phone on.
